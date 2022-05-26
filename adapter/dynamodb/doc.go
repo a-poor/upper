@@ -1,0 +1,2 @@
+// Package dynamodb
+package dynamodb
